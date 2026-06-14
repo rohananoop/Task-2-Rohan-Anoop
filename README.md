@@ -36,7 +36,11 @@ It was **Project 2**, which focus concepts like variables, loops, arithmetic ope
 ---
 
 ## How To Run
-### Compile
+1. Compile
+```
 javac DecodeLabs_Java_P2.java
-### Run 
+```
+3.  Run 
+```
 java DecodeLabs_Java_P2
+````
