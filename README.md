@@ -35,13 +35,6 @@ It was **Project 2**, which focus concepts like variables, loops, arithmetic ope
 
 ---
 
-## Technologies Used
-- Java
-- Scanner class
-- Type casting
-
----
-
 ## How To Run
 ### Compile
 javac DecodeLabs_Java_P2.java
